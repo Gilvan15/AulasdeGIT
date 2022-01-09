@@ -1,3 +1,6 @@
 Primeiro estado do Git
 Novo Estado do Git
 Novas modificações 
+
+
+Entendo o HEAD
