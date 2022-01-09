@@ -1,0 +1,2 @@
+Primeiro estado do Git
+Novo Estado do Git
